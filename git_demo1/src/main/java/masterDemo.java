@@ -6,6 +6,7 @@ public class masterDemo {
         System.out.println("masterTest");
         System.out.println("masterTest");
         System.out.println("masterTest");
-
+        System.out.println("masterTest1");
+        System.out.println("masterTest2");
     }
 }
